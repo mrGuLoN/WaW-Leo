@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 41caff5b3dd3d434583438089a718ce9, type: 3}
+  m_Name: PlayerWithGun
+  m_EditorClassIdentifier: 
+  playerPrefab: {fileID: 7479369682460628206, guid: ac141181b5bbcc64d9ca117613825682, type: 3}
+  playerSpeed: 3
+  playerSpeedRotation: 10
